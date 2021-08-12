@@ -7,4 +7,4 @@ Java is one of the top five programming languages and is used for websites, embe
 
 Interested in learning how to code with Java? Join me on this road!
 
-Recommended for beginning programmers who want to get a first taste of this popular language.
+Recommended for beginning programmers who want to get a first taste of this popular language. 
