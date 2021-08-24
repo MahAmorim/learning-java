@@ -26,3 +26,34 @@
       JOptionPane.showMessageDialog(null, word);
 
 ### Decision Making:
+
+- With condition structures enable the program to make decisions and change the execution flow
+
+- In the Java language we have three resources for creating decision structures: `if/else`, `ternary operator` and `switch/case`
+
+- In this class we introduce the switch case
+
+- Example switch case structure: 
+
+      switch(teste){
+                  case 1:
+                      System.out.println("Hi");
+                      break;
+                  case 2:
+                      System.out.println("Hello");
+                      break;
+                  case 3:
+                      System.out.println("What's up");
+                      break;
+                  default:
+                      System.out.println("Digite SOMENTE números entre 1 e 3");
+                      break;
+              }
+
+- Switch case is the conditional switch tests the value contained in a variable and compares it with the values provided in each case, represented by the reserved word case
+    
+- The `break` command, when executed, ends the execution of the structure where it is located
+    
+- If all cases are tested and none match the value of the test variable, the code block associated with the `default` section of the conditional will be executed
+    
+    
