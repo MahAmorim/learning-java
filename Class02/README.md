@@ -1,4 +1,6 @@
-# Contents: Message boxes.
+# Content: message boxes and decision making.
+
+### Message Box:
 
 - The Java language offers different ways of interacting with the user, mostly in windows
 
@@ -22,3 +24,5 @@
     
       word = JOptionPane.showInputDialog("Enter a word");
       JOptionPane.showMessageDialog(null, word);
+
+### Decision Making:
