@@ -29,9 +29,9 @@
 
 - With condition structures enable the program to make decisions and change the execution flow
 
-- In the Java language we have three resources for creating decision structures: `if/else`, `ternary operator` and `switch/case`
+- In the Java language we have three resources for creating decision structures: `if/else`, `while`, `do while`, `for` and `switch/case`
 
-- In this class we introduce the switch case
+- In this class we introduce the `switch case`
 
 - Example switch case structure: 
 
@@ -55,5 +55,4 @@
 - The `break` command, when executed, ends the execution of the structure where it is located
     
 - If all cases are tested and none match the value of the test variable, the code block associated with the `default` section of the conditional will be executed
-    
     
