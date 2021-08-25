@@ -46,7 +46,7 @@
                       System.out.println("What's up");
                       break;
                   default:
-                      System.out.println("Digite SOMENTE números entre 1 e 3");
+                      System.out.println("Enter only numbers 1 to 3");
                       break;
               }
 
